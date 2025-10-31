@@ -4,6 +4,7 @@
 
 The `robot_controller` package contains multiple ROS 2 nodes that interact with each other in a robot control system. It includes a **Status Publisher**, **Command Subscriber**, and **Velocity Publisher**. This package demonstrates basic ROS 2 node communication.
 
+video link: https://www.youtube.com/watch?v=pf1q38w-FyE
 ## Prerequisites
 
 - ROS 2 (Foxy, Galactic, or newer)
